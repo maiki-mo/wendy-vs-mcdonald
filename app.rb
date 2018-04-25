@@ -23,3 +23,5 @@ post '/' do
   response = sg.client.mail._('send').post(request_body: mail.to_json)
   redirect '/'
 end
+
+##IMG CREDITS: https://lysol-jones.deviantart.com/art/Extra-Value-Combo-Alpha-66945355
