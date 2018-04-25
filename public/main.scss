@@ -12,6 +12,14 @@ header {
   border-radius: 0 0 10px 10px;
 }
 
+footer {
+  height: 40px;
+  margin: 0 10px 0 10px;
+  padding: 10px;
+  background-color: $maincolor;
+  border-radius: 10px 10px 0 0;
+}
+
 #header-img {
   position: relative;
   right: 20%;
