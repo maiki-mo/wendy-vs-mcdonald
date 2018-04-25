@@ -60,7 +60,7 @@ footer {
   padding-top: 20px; }
 
 h1 {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: "Abril Fatface", cursive;
   font-weight: bold;
   font-size: 23px;
   color: yellow; }
@@ -78,7 +78,7 @@ hr {
 
 #center-text {
   margin: 20px;
-  margin-top: 13%;
+  margin-top: 11%;
   background-color: #903D34;
   padding: 10px;
   border-radius: 10px;
@@ -86,6 +86,7 @@ hr {
 
 #center-text > p {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
   color: white;
   text-align: justify;
   font-size: 14px;
@@ -98,7 +99,7 @@ hr {
 
 .info-container {
   height: 38.5%;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: "Abril Fatface", cursive;
   font-size: 30px;
   text-transform: uppercase;
   font-weight: bold;
@@ -128,7 +129,7 @@ hr {
 label {
   text-transform: uppercase;
   font-weight: bold;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: "Abril Fatface", cursive;
   font-size: 25px; }
 
 textarea {
