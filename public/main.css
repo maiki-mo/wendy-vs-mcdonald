@@ -81,6 +81,7 @@ hr {
   margin-top: 11%;
   background-color: #903D34;
   padding: 10px;
+  padding-top: 14%;
   border-radius: 10px;
   text-align: center; }
 
@@ -98,7 +99,7 @@ hr {
   background-color: #FFD4D0; }
 
 .info-container {
-  height: 40.5%;
+  height: 32.5%;
   font-family: "Abril Fatface", cursive;
   font-size: 30px;
   text-transform: uppercase;
